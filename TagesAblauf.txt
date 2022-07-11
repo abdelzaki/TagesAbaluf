@@ -1,0 +1,4 @@
+- Datum:11-07-22
+	--> 6:30:
+			- effective C++ reading
+			 
